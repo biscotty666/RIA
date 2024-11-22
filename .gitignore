@@ -2,3 +2,4 @@ code/
 .envrc
 .direnv/
 nohup.out
+**/target/
