@@ -1,3 +1,4 @@
 code/
 .envrc
 .direnv/
+nohup.out
